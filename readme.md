@@ -1,6 +1,6 @@
 # Home
 
-This is an attempt to start again.
+Why isn't this updating?
 
 [Works](works.md)
 
