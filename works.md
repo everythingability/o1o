@@ -7,7 +7,6 @@
 
 [Wandering Paint](works/wandering-paint-loop/WanderingPaintLoop.md)
 
-
 [The World At War](works/worldatwar/WorldAtWar.md)
 
 [Hunters In The Snow](works/hunters/HuntersInTheSnow.md)
@@ -32,4 +31,4 @@
 
 [Rabbit Zoom](works/rabbit-zoom/RabbitZoom.md) 
 
- [The Dancers](works/the-dancers/TheDancers.md)
+[The Dancers](works/the-dancers/TheDancers.md)
