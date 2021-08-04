@@ -3,5 +3,7 @@
 ---
 # Do You Own Research
 
-![DO YOUR OWN RESEARCH.png](index.png)
+![DO YOUR OWN RESEARCH](index.png)
+
+[View here](index.html)
 
