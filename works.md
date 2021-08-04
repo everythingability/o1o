@@ -7,6 +7,8 @@
 
 [Wandering Paint](works/wandering-paint-loop/WanderingPaintLoop.md)
 
+[Hunters In The Snow](works/hunters/HuntersInTheSnow.md)
+
 [Mutant Algorithm](works/mutant-algorithm/MutantAlgorithm.md)
 
 [Hidden In Plain Sight](works/hidden/hidden.md)
