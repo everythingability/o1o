@@ -1,10 +1,9 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 .markdown-body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  font-weight: 300;
   max-width: 800px;
   font-size: 16px;
 }
