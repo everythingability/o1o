@@ -1,6 +1,3 @@
-# Works
-
-
 # Work
 
 [Up In Smoke](works/upinsmoke/UpInSmoke.md)
