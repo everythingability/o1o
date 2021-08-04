@@ -4,6 +4,8 @@
 
 [The Pigs' Ears](works/pigs-ears/ThePigsEars.md)
 
+[Wandering Paint](works/wandering-paint-loop/Wandering%20Paint%20Loop.md)
+
 [Mutant Algorithm](works/mutant-algorithm/MutantAlgorithm.md)
 
 [Hidden In Plain Sight](works/hidden.md)
