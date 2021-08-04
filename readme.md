@@ -2,6 +2,6 @@
 
 This is an attempt to start again.
 
-[[works]]
+[Works](works.md)
 
 ---
