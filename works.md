@@ -14,4 +14,10 @@
 
 [Do Your Own Research](works/do-your-own-research/DoYourOwnResearch.md)
 
+[The Glitch Cows](works/glitched-glitched-cows/The%20Cows%20Glitch.md)
 
+[Smile And Be Oppressed](works/smiley-riots/SmileAndBeOppressed.md)
+
+[Nazis vs Kpop](works/nazis-vs-kpop/NazisVsKpop.md)
+
+[The Parasites](works/parasites/Parasites.md)
