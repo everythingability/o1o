@@ -1,3 +1,3 @@
 # The Parasites
 
-![Trump Parasites](red-red-trump-parasite.jpg)
+![Trump Parasites](red-trump-parasite.jpg)
