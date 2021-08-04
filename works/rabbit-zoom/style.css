@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+background: linear-gradient(45deg, #575656, black);
+min-height: 100%;
+}
+canvas {
+  display: block;
+}
