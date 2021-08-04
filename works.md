@@ -1,6 +1,5 @@
 # Work
 
-Slowly adding stuff here...
 
 [Up In Smoke](works/upinsmoke/UpInSmoke.md)
 
