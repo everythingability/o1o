@@ -8,11 +8,13 @@ This generative work starts with a "perfect" gradient and make a random gradient
 
 ![Wandering](index.png)
 
-It stops when it *thinks* it has restored the "balance" between red and blue, with both at 50%.
+It stops when it *thinks* it has restored the "balance" between red and blue, with both at 50%. I liked the idea of *dumb helpfulness*, and apologetic destroyer of images.
 
 <video width="1000" height="800" controls>
   <source src="gradient.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+
 
 
