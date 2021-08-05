@@ -1,5 +1,13 @@
 # Work
 
+<div class="card" style="width: 18rem;">
+  <img src="works/upinsmoke/index.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Up In Smoke</h5>
+    <p class="card-text">A corner of an amazon warehouse</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
 
 [Up In Smoke](works/upinsmoke/UpInSmoke.md)
 
