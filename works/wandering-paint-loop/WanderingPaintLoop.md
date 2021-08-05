@@ -15,7 +15,7 @@ It stops when it *thinks* it has restored the "balance" between red and blue, wi
 ![At the end](two_points_0581.jpg)
 
 <video width="1000" height="800" controls>
-  <source src="GradientAutoDrawing.mp4" type="video/mp4">
+  <source src="gradient.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
