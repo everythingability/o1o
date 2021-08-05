@@ -5,8 +5,12 @@
   <img src="works/upinsmoke/index.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Up In Smoke</h5>
-    <p class="card-text">A corner of an amazon warehouse</p>
-    [Up In Smoke](works/upinsmoke/UpInSmoke.md)
+    <p class="card-text">A dim corner of an amazon warehouse
+    
+     [Up In Smoke](works/upinsmoke/UpInSmoke.md)
+    
+    </p>
+   
   </div>
 </div>
 
