@@ -10,7 +10,7 @@ This generative thing starts with a "perfect" gradient and make a random gradien
 
 ![At the beginning](two_points_0012.jpg)
 
-It stops when it thinks it has restored the "balance" between red and blue, with both at 50%.
+It stops when it *thinks* it has restored the "balance" between red and blue, with both at 50%.
 
 ![At the end](two_points_0581.jpg)
 
