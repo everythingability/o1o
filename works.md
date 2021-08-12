@@ -1,6 +1,5 @@
 # Work
 
-
 <div class="card" style="width: 18rem;">
   <img src="works/upinsmoke/index.jpg" class="card-img-top" alt="...">
   <div class="card-body">
@@ -13,8 +12,6 @@
    
   </div>
 </div>
-
-
 
 [The Pigs' Ears](works/pigs-ears/ThePigsEars.md)
 
